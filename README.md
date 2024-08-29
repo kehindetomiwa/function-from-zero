@@ -1,1 +1,1 @@
-# function-from-zero
+# function-from-zero [![Python application test with Github Actions](https://github.com/kehindetomiwa/function-from-zero/actions/workflows/main.yml/badge.svg)](https://github.com/kehindetomiwa/function-from-zero/actions/workflows/main.yml)
